@@ -39,7 +39,7 @@ void refresh()
     u8g2.drawStr(105, 30, "%");
     u8g2.drawStr(0, 45, "CPU Freq:");
     u8g2.drawStr(73, 45, scpuclk);
-    //u8g2.drawStr(105, 45, "MHz");
+    u8g2.drawStr(105, 45, "MHz");
     u8g2.drawStr(105, 45, "GHz");
     u8g2.drawStr(0, 60, "CPU Volt:");
     u8g2.drawStr(73, 60, vcpu);
@@ -52,7 +52,7 @@ void setup()
     // put your setup code here, to run once:
     u8g2.begin();
     u8g2.enableUTF8Print(); //开启后能显示一些中文字
-    Serial.begin(1500000);
+    Serial.begin(115200);
 }
 
 void loop()

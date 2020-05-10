@@ -3,3 +3,10 @@ D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.exe
 D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.pdb
 D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.exe
 D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.pdb
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.exe.config
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.exe
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.pdb
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.csprojAssemblyReference.cache
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.csproj.CoreCompileInputs.cache
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.exe
+E:\Codes\github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.pdb
